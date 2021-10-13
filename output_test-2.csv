@@ -1,0 +1,9 @@
+customer_id,loyalty_score,product_id,product_category,purchase_count_per_product_id
+C1,12,P1,1,2
+C1,12,P3,3,1
+C2,23,P2,2,2
+C3,133,P3,3,2
+C3,133,P4,4,1
+C4,94,,,
+C5,100,P1,1,2
+C5,100,P4,4,1

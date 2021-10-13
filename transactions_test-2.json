@@ -1,0 +1,78 @@
+[
+    {
+        "customer_id": "C1",
+        "basket": [
+            {
+                "product_id": "P1",
+                "price": 45
+            },
+            {
+                "product_id": "P1",
+                "price": 45
+            },
+            {
+                "product_id": "P3",
+                "price": 47
+            }
+        ],
+        "date_of_purchase": "2020-08-1 11:01:40.944323"
+    },
+    {
+        "customer_id": "C2",
+        "basket": [
+            {
+                "product_id": "P2",
+                "price": 43
+            },
+            {
+                "product_id": "P2",
+                "price": 43
+            }
+        ],
+        "date_of_purchase": "2020-08-1 11:01:40.944323"
+    },
+    {
+        "customer_id": "C3",
+        "basket": [
+            {
+                "product_id": "P4",
+                "price": 49
+            },
+            {
+                "product_id": "P3",
+                "price": 47
+            },
+            {
+                "product_id": "P3",
+                "price": 47
+            }
+        ],
+        "date_of_purchase": "2020-08-1 11:01:40.944323"
+    },
+    {
+        "customer_id": "C4",
+        "basket": [
+            
+        ],
+        "date_of_purchase": "2020-08-1 11:01:40.944323"
+    },
+    {
+        "customer_id": "C5",
+        "basket": [
+            {
+                "product_id": "P1",
+                "price": 45
+            },
+            {
+                "product_id": "P1",
+                "price": 45
+            },
+            {
+                "product_id": "P4",
+                "price": 49
+            }
+        ],
+        "date_of_purchase": "2020-08-1 11:01:40.944323"
+    }
+    
+]
